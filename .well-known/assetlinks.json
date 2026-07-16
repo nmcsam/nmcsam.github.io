@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nmcsam.twa",
+        "sha256_cert_fingerprints": ["12:3F:A9:83:57:15:43:4F:21:D9:BA:96:30:71:04:41:50:2B:46:63:BC:2F:B8:A0:F5:39:46:3C:7F:78:9F:EB"]
+      }
+    }]
