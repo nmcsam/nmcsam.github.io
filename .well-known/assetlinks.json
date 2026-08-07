@@ -1,8 +1,26 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.nmcsam.twa",
-        "sha256_cert_fingerprints": ["12:3F:A9:83:57:15:43:4F:21:D9:BA:96:30:71:04:41:50:2B:46:63:BC:2F:B8:A0:F5:39:46:3C:7F:78:9F:EB"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nmcsam.twa",
+      "sha256_cert_fingerprints": [
+        "12:3F:A9:83:57:15:43:4F:21:D9:BA:96:30:71:04:41:50:2B:46:63:BC:2F:B8:A0:F5:39:46:3C:7F:78:9F:EB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nmcsam.abhidhamma",
+      "sha256_cert_fingerprints": [
+        "97:CB:E6:E3:D1:4D:82:03:36:7E:8A:14:D3:1E:54:EA:28:20:86:84:BB:F6:0C:D7:B4:38:A3:96:A5:89:60:F0"
+      ]
+    }
+  }
+]
